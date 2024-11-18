@@ -30,9 +30,9 @@ Usage
 Run the app: Start the Streamlit app with:
 
 bash
-Copy code
+```
+To run the APP 
 streamlit run app.py
-This will open the app in your browser.
 
 Upload File: Upload a CSV or Excel file containing your data.
 
