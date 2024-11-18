@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+requests
+beautifulsoup4
+pandas
+openpyxl
+python-dotenv
+huggingface-hub
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
